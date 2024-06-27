@@ -272,7 +272,7 @@ smmap==4.0.0
 
 streamlit==0.84.0
 
-
+setuptools==65.0.1
 
 terminado==0.10.1
 
