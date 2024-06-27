@@ -2,3 +2,4 @@ streamlit
 requests
 creds
 dotenv
+pip == 24.1.1
