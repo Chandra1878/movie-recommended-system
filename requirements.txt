@@ -90,7 +90,7 @@ defusedxml==0.7.1
 
 
 
-I entrypoints==0.3
+entrypoints==0.3
 
 
 
