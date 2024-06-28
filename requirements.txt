@@ -1,7 +1,11 @@
 streamlit
-requests
 creds
 dotenv
+
+pandas
+
+
+scikit-learn
 pip == 24.1.1
 certifi==2024.6.2
 charset-normalizer==3.3.2
