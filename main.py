@@ -3,10 +3,10 @@ import pickle
 import pandas as pd
 import requests
 import creds
-from dotenv import load_dotenv
-import os
 
-load_dotenv()
+
+
+
 
 
 
